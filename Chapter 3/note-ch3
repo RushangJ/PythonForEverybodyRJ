@@ -1,0 +1,31 @@
+*Conditional statement:
+
+Boolean expressions ask a question and produce a Yes or No result which we use
+to control program flow.
+
+< less then
+<= less then  equal to
+== is  ?
+= used for assignment
+!= not equal
+> grater then
+>= grater then equal to
+
+*Logical operator:
+
+There are 3 logical operator: and
+                              or
+                              not
+
+* Conditional execution: if
+
+* Alternative execution: if else
+
+* Chained Conditional: if  elif  else
+
+* Nested condition: if else else  (One condition can be nested within another)
+
+* The try/except structure:
+
+-If the code in the try works- the except skipped
+-If the code in try fails- it jumps to the except section 5
