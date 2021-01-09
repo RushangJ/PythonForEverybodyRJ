@@ -1,0 +1,45 @@
+*3 general types of errors:
+
+1) Syntax errors: means that you have violated the "grammar" rules of python.
+
+2) Logic errors: A mistake in the order of the statement or perhaps a mistake
+                 in how the statement related to one another.
+
+3) Semantic errors: When your description of the steps to take is syntactically
+                    perfect and in the right order, but there is simply a mistake
+                    in the program.
+
+*Debugging:
+
+reading
+v
+running <running different versions>
+v
+ruminating <Take some time to think what kind of error is it!>
+v
+retreating <undoing recent changes, until you get back to program that works>
+
+Exercise:
+1) C. Store information for long term even beyond power cycle
+
+2) sequence of statement that have been crafted to do something.
+
+3) An interpreter reads the source code and interprets right away. A compiler
+   needs the entire program file before running, translating from high-level
+   language to machine level language and then putting in a separate file to
+   execute later.
+
+4) A. Python interpreter
+
+5) spelling wrong and missing ()
+
+6) B. Main memory
+
+7) B. 44
+
+8)Central Processing Unit: Like the human brain? -Main Memory: Your short
+  term-memory -Secondary Memory: Your long-term memory -Input Device: You
+  ears when listening or putting food in your body -Output Device:
+  Your mouth when speaking
+
+9) check grammar
