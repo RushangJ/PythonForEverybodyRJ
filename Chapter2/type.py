@@ -1,1 +1,0 @@
-type ('This is america')
