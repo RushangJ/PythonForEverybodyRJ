@@ -1,0 +1,29 @@
+*type(): If you are not sure that type a value has, the interpreter can tell
+         you.
+
+*Types of variable: String- str
+                   Integer- int
+                   Float- float
+
+*operators: *,_,+,%,
+
+* Order of Evaluation: When we string operators together python know which one
+                       to do first.
+                       This is called "operator precedence"
+        Example:
+
+        x= 1+2*3-4/5**6   Order:1) (5**6)
+                                2) (4/180)=45
+                                3)  (2*3)=6
+                                4)   1+6-45
+
+      * Operator's precedences rules :
+
+        -Parentheses are always respected
+        -Exponentiation (raise to a power)
+        -Multiplication, Division, and reminder
+        -Addition and Subtraction
+        -Left to right
+
+*mnemonic: A memory aid. We often give variables mnemonic names to help us
+           remember what is stored in the variable.
