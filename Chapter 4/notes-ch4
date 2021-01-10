@@ -1,0 +1,39 @@
+* Function: A function is a named sequence of statement that performs a
+            computation.
+
+* Conversion function: built in functions that convert value from one type to
+                        an another.
+
+* Adding a function:
+      def(): def is a keyword that indicates that this is a function definition.
+
+* Argument: An argument is the value that are sent to the function when it is
+            called.
+
+Exercise:
+
+Exercise 4: What is the purpose of the “def” keyword in Python?
+a) It is slang that means “the following code is really cool”
+b) It indicates the start of a function
+c) It indicates that the following indented section of code is to be stored for later
+d) b and c are both true
+e) None of the above
+
+Answer: E because def is a keyword that indicates that this is a function
+        definition.
+
+Exercise 5: What will the following Python program print out?
+
+def fred():
+print("Zap")
+def jane():
+print("ABC")
+jane()
+fred()
+jane()
+a) Zap ABC jane fred jane
+b) Zap ABC Zap
+c) ABC Zap jane
+d) ABC Zap ABCe) Zap Zap Zap
+
+Answer: D
